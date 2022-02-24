@@ -1,0 +1,1 @@
+# GetHardwareInfo.-C-Sharp-project
