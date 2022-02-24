@@ -1,0 +1,9 @@
+C:\Users\zhora-laptop\Desktop\111\bin\Debug\GetHardwareInfo.exe
+C:\Users\zhora-laptop\Desktop\111\bin\Debug\GetHardwareInfo.pdb
+C:\Users\zhora-laptop\Desktop\111\obj\Debug\GetHardwareInfo.csprojAssemblyReference.cache
+C:\Users\zhora-laptop\Desktop\111\obj\Debug\GetHardwareInfo.frmMain.resources
+C:\Users\zhora-laptop\Desktop\111\obj\Debug\GetHardwareInfo.Properties.Resources.resources
+C:\Users\zhora-laptop\Desktop\111\obj\Debug\GetHardwareInfo.csproj.GenerateResource.cache
+C:\Users\zhora-laptop\Desktop\111\obj\Debug\GetHardwareInfo.csproj.CoreCompileInputs.cache
+C:\Users\zhora-laptop\Desktop\111\obj\Debug\GetHardwareInfo.exe
+C:\Users\zhora-laptop\Desktop\111\obj\Debug\GetHardwareInfo.pdb
